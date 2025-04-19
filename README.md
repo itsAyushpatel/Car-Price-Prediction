@@ -122,8 +122,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 This project is open source and available under the MIT License.
 
-## 👤 Contact
-For any queries or suggestions, please reach out to Ayush Patel.
 
 ## 🙏 Acknowledgments
 - Thanks to all contributors and users of this project
